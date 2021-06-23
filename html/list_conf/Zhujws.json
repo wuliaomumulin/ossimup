@@ -1,0 +1,1 @@
+[{"name":"search","title":"关键字","show":true,"type":"input","tips":"","format":"","msg":"","required":false,"disabled":false},{"name":"online_state","title":"在线状态","show":true,"type":"select","valueField":"1,0","textField":"在线,离线","multiple":false,"tips":"","format":"","msg":"","required":false,"disabled":false}]

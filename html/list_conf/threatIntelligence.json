@@ -1,0 +1,170 @@
+[
+    {
+        "name": "id",
+        "title": "内部ID号",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "event_id",
+        "title": "事件ID",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "severity",
+        "title": "严重级别",
+        "show": true,
+        "type": "select",
+        "valueField": "low,medium,high,critical",
+        "textField": "低,中,高,严重",
+        "multiple":false,
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "timestamp",
+        "title": "时间",
+        "show": true,
+        "type": "DateRange",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "ioc_raw",
+        "title": "IOC",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "created_at",
+        "title": "创建时间",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "find_at",
+        "title": "首次发现时间",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "update_at",
+        "title": "最新发现时间",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "port",
+        "title": "开发端口",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "related_sample",
+        "title": "关联样本",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "related_ip",
+        "title": "解析IP",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "related_gangs",
+        "title": "关联团伙",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "related_gangs_desc",
+        "title": "关联团伙描述",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "related_events_and_desc",
+        "title": "关联事件",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    },
+    {
+        "name": "solution",
+        "title": "建议处理措施",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    }
+]

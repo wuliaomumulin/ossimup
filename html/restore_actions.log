@@ -1,0 +1,219 @@
+2020-04-03 04:29:09, Launch: backup action="backup_restore"  begin="2020-05-01" end="2020-01-01" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:29:12, Bad response from frameworkd
+
+2020-04-03 04:31:03, Launch: backup action="backup_restore"  begin="2020-05-01" end="2020-01-01" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:31:06, Bad response from frameworkd
+
+2020-04-03 04:32:22, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:32:25, return:2
+
+2020-04-03 04:32:25, Bad response from frameworkd
+
+2020-04-03 04:34:36, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:34:39, return:2
+
+2020-04-03 04:34:39, Bad response from frameworkd
+
+2020-04-03 04:36:21, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:36:25, return:2
+
+2020-04-03 04:37:38, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:37:41, return:2
+
+2020-04-03 04:38:11, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:38:14, return:2
+
+2020-04-03 04:38:38, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:38:41, return:2
+
+2020-04-03 04:38:41, Bad response from frameworkd
+
+2020-04-03 04:39:01, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:39:04, return:2
+
+2020-04-03 04:39:23, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:39:26, return:2
+
+2020-04-03 04:40:00, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:40:03, return:2
+
+2020-04-03 04:40:57, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:41:00, return:2
+
+2020-04-03 04:41:24, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:41:27, return:2
+
+2020-04-03 04:41:44, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:41:47, return:2
+
+2020-04-03 04:42:08, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:42:11, return:2
+
+2020-04-03 04:42:22, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:42:25, return:2
+
+2020-04-03 04:43:17, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:43:20, return:2
+
+2020-04-03 04:45:12, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:45:15, return:2
+
+2020-04-03 04:47:28, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:47:31, return:2
+
+2020-04-03 04:47:50, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:47:53, return:2
+
+2020-04-03 04:48:51, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:48:54, return:2
+
+2020-04-03 04:51:56, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:52:00, return:2
+
+2020-04-03 04:52:33, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:52:36, return:2
+
+2020-04-03 04:52:51, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:52:54, return:2
+
+2020-04-03 04:53:00, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:53:03, return:2
+
+2020-04-03 04:53:16, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:53:19, return:2
+
+2020-04-03 04:53:24, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:53:28, return:2
+
+2020-04-03 04:54:41, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:54:44, return:2
+
+2020-04-03 04:55:56, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:55:59, return:2
+
+2020-04-03 04:56:18, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:56:21, return:2
+
+2020-04-03 04:57:56, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 04:57:59, return:2
+
+2020-04-03 05:02:31, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:02:34, return:2
+
+2020-04-03 05:02:53, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:02:56, return:2
+
+2020-04-03 05:03:28, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:03:31, return:2
+
+2020-04-03 05:03:34, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:03:37, return:2
+
+2020-04-03 05:06:29, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:06:32, return:2
+
+2020-04-03 05:06:37, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:06:40, return:2
+
+2020-04-03 05:39:21, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:39:24, return:2
+
+2020-04-03 05:40:05, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:40:08, return:2
+
+2020-04-03 05:40:13, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:40:16, return:2
+
+2020-04-03 05:41:35, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:41:38, return:2
+
+2020-04-03 05:42:03, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:42:06, return:2
+
+2020-04-03 05:44:14, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:44:17, return:2
+
+2020-04-03 05:45:05, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:45:08, return:2
+
+2020-04-03 05:47:00, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:47:03, return:2
+
+2020-04-03 05:47:07, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:47:10, return:2
+
+2020-04-03 05:50:25, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:50:28, return:2
+
+2020-04-03 05:50:30, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:50:33, return:2
+
+2020-04-03 05:52:22, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:52:25, return:2
+
+2020-04-03 05:52:28, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:52:31, return:2
+
+2020-04-03 05:52:32, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:52:36, return:2
+
+2020-04-03 05:52:37, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:52:40, return:2
+
+2020-04-03 05:54:10, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:54:13, return:2
+
+2020-04-03 05:57:32, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:57:35, return:2
+
+2020-04-03 05:58:25, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:58:28, return:2
+
+2020-04-03 05:59:22, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 05:59:25, return:2
+
+2020-04-03 06:00:20, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 06:00:23, return:2
+
+2020-04-03 06:12:27, Launch: backup action="backup_status"
+2020-04-03 06:12:30, Bad response from frameworkd
+
+2020-04-03 06:13:08, Launch: backup action="backup_status"
+2020-04-03 06:13:11, Bad response from frameworkd
+
+2020-04-03 06:13:33, Launch: backup action="backup_status"
+2020-04-03 06:13:36, Bad response from frameworkd
+
+2020-04-03 06:15:15, Launch: backup action="backup_status"
+2020-04-03 06:15:18, Bad response from frameworkd
+
+2020-04-03 06:15:41, Launch: backup action="backup_status"
+2020-04-03 06:15:44, Bad response from frameworkd
+
+2020-04-03 06:43:39, Launch: backup action="backup_restore"  begin="2020-03-12" end="2020-04-02" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 06:43:42, return:2
+
+2020-04-03 07:00:44, Launch: backup action="purge_events"  dates="2020-04-02,2020-03-13,2020-03-12" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 07:00:47, return:2
+
+2020-04-03 07:01:53, Launch: backup action="purge_events"  dates="2020-02-27,2020-04-03" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 07:01:56, return:2
+
+2020-04-03 07:02:49, Launch: backup action="purge_events"  dates="2020-02-27,2020-04-03" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 07:02:52, return:2
+
+2020-04-03 07:13:38, Launch: backup action="purge_events"  dates="2020-04-02,2020-03-13" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 07:13:41, return:2
+
+2020-04-03 07:14:53, Launch: backup action="purge_events"  dates="2020-04-02" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 07:14:56, return:2
+
+2020-04-03 07:16:31, Launch: backup action="backup_restore"  begin="2020-04-01" end="2020-04-01" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 07:16:34, return:2
+
+2020-04-03 07:18:07, Launch: backup action="backup_restore"  begin="2020-04-01" end="2020-04-01" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 07:18:10, return:2
+
+2020-04-03 07:18:12, Launch: backup action="backup_restore"  begin="2020-04-01" end="2020-04-01" entity="" newbbdd="0" bbddhost="127.0.0.1" bbdduser="" bbddpasswd="123456"
+2020-04-03 07:18:15, return:2
+

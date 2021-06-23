@@ -1,0 +1,5 @@
+<Ifmodule headers_module>
+# Header edit Set-Cookie ^(.*)$ $1;HttpOnly;Secure
+RequestHeader unset DNT env=bad_DNT
+Header always append X-Frame-Options DNT
+</IfModule>

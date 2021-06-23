@@ -1,0 +1,91 @@
+[
+    {
+        "name": "sid",
+        "title": "子插件ID",
+        "show": true,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "name",
+        "title": "事件名称",
+        "show": true,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "priority",
+        "title": "优先级",
+        "show": true,
+        "type": "select",
+        "valueField": "1,2,3,4,5",
+        "textField": "1,2,3,4,5",
+        "multiple":false,
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "reliability",
+        "title": "可靠度",
+        "show": true,
+        "type": "select",
+        "valueField": "1,2,3,4,5,6,7,8,9,10",
+        "textField": "1,2,3,4,5,6,7,8,9,10",
+        "multiple":false,
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "class_id_name",
+        "title": "分类",
+        "show": true,
+        "type": "select",
+        "valueField": "",
+        "textField": "",
+        "multiple":false,
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "category_id_name",
+        "title": "类型",
+        "show": true,
+        "type": "select",
+        "valueField": "",
+        "textField": "",
+        "multiple":false,
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "subcategory_id_name",
+        "title": "子类型",
+        "show": true,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": true
+    }
+]

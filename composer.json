@@ -1,0 +1,11 @@
+{
+    "name": "2/ossimup",
+    "description": "test",
+    "authors": [
+        {
+            "name": "liyb",
+            "email": "761071654@qq.com"
+        }
+    ],
+    "require": {}
+}

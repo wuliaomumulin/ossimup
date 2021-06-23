@@ -1,0 +1,68 @@
+[
+    {
+        "name": "id",
+        "title": "插件唯一标识",
+        "show": true,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "name",
+        "title": "名称",
+        "show": true,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "description",
+        "title": "描述",
+        "show": true,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "product_type_sname",
+        "title": "产品类别",
+        "show": true,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "vendor",
+        "title": "供应商",
+        "show": true,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    },
+    {
+        "name": "type",
+        "title": "类型",
+        "show": false,
+        "type": "input",
+        "tips": "",
+        "format": "",
+        "msg": "",
+        "required": false,
+        "disabled": false
+    }
+]
